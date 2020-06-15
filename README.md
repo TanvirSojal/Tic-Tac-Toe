@@ -1,7 +1,7 @@
 # Tic-Tac-Toe
 Tic - Tac - Toe game implemented in assembly (8086)
 
-- You need a 8086 emulator to run this game. (http://www.emu8086.com/)
+- You need a 8086 emulator to run this game.
 - It is a 2 player game. Player 1 will place 'X' mark and Player 2 will place 'O' mark.
 - Has option to repeat the game after it is over.
 - Character inputs will be checked, if you enter any invalid character, it will prompt to input again.
