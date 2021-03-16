@@ -10,3 +10,6 @@ Tic - Tac - Toe game implemented in assembly (8086)
 
 
 ![untitled-1](https://user-images.githubusercontent.com/14056189/44297499-4cdbe700-a2f4-11e8-89fe-8a0028b8d03d.jpg)
+<br>
+#### Game Screenshot<br>
+![game_ss](https://user-images.githubusercontent.com/14056189/111333263-baaf4180-869c-11eb-876e-107e3eed3019.jpg)
